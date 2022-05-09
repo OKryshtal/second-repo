@@ -1,1 +1,2 @@
 Я вивчаю Git
+I almost get Git
